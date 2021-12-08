@@ -1,0 +1,22 @@
+<!DOCTYPEhtml>
+<html>
+	<head>
+		<title>Card</title>
+		<meta charesta="UTF-8">
+		<link rel='stylesheet' href='Card.css'/>
+	</head>
+	<body>
+		<div class="container">
+			<div class="child">			
+			<h> القرأن<br>الكريم</h> 
+				<p>اعظم كتاب عرفته البشرية فقد اصطفي الله لرسالته سيدنا محمد انزل علية القران الكريم </p>
+			</div>
+			<div class="rotate">
+				<div class="label">
+					خيركم من تعلم القرأن وعلمه
+				</div>
+			</div>
+		</div>
+		<img src="Card.PNG"/>
+	</body>
+</html>
